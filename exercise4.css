@@ -1,0 +1,46 @@
+
+body{
+
+background-color: black;
+
+}
+
+h1 {
+	background-color:  white;
+	border-color: orange;
+}
+
+.first{
+
+	padding-top: 30%;
+	margin:  20%;
+	padding-left: 0%;
+}
+
+.second{
+	
+	padding-top: 30%;
+	margin:  20%;
+	padding-left: -15%;
+}
+
+.third{
+
+	padding-top: 60%;
+	margin:  20%;
+	padding-left: -30%;
+}
+
+.fourth{ 
+
+	padding-top: 120%;
+	margin:  20%;
+	padding-left: -45%;
+ }
+
+.fifth{ 
+
+	padding-top: 240%;
+	margin:  20%;
+	padding-left: -60%;
+ }
